@@ -27,7 +27,7 @@ Frontend Developer with professional experience building production web and cros
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[FastTravelAI](https://github.com/Nguyenvanle/FastTravelAI)** | AI-powered travel planning and exploration platform. | `Next.js` `TypeScript` `AI` `TailwindCSS` |
+| **[fast-travel-ai](https://github.com/Nguyenvanle/fast-travel-ai)** | AI-powered travel planning and exploration platform. | `Next.js` `TypeScript` `AI` `TailwindCSS` |
 | **[multi-koala](https://github.com/Nguyenvanle/multi-koala)** | Online course sharing and interactive learning platform. | `TypeScript` `React` `Web Platform` |
 | **[agtravel](https://github.com/Nguyenvanle/agtravel)** | Modern travel & destination exploration web application. | `TypeScript` `Next.js` `React` |
 | **[nextjs-i18n](https://github.com/Nguyenvanle/nextjs-i18n)** | Scalable multi-language (i18n) boilerplate architecture for Next.js. | `Next.js` `TypeScript` `i18n` |
