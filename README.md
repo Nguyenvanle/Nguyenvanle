@@ -27,10 +27,10 @@ Frontend Developer with professional experience building production web and cros
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[fast-travel-ai](https://github.com/Nguyenvanle/fast-travel-ai)** | AI-powered travel planning and exploration platform. | `Next.js` `TypeScript` `AI` `TailwindCSS` |
-| **[multi-koala](https://github.com/Nguyenvanle/multi-koala)** | Online course sharing and interactive learning platform. | `TypeScript` `React` `Web Platform` |
-| **[agtravel](https://github.com/Nguyenvanle/agtravel)** | Modern travel & destination exploration web application. | `TypeScript` `Next.js` `React` |
-| **[nextjs-i18n](https://github.com/Nguyenvanle/nextjs-i18n)** | Scalable multi-language (i18n) boilerplate architecture for Next.js. | `Next.js` `TypeScript` `i18n` |
+| **[fast-travel-ai](https://github.com/Nguyenvanle/fast-travel-ai)** | AI-powered travel planning and exploration platform. | `Next.js` `TypeScript` `Gemini AI` `TailwindCSS` |
+| **[nextjs-i18n](https://github.com/Nguyenvanle/nextjs-i18n)** | Enterprise Next.js 14 multi-language starter architecture. | `Next.js` `TypeScript` `TanStack Query` `Zustand` `i18n` |
+| **[multi-koala](https://github.com/Nguyenvanle/multi-koala)** | Online course sharing and interactive learning platform. | `TypeScript` `React` `React Native` `Spring Boot` |
+| **[agtravel](https://github.com/Nguyenvanle/agtravel)** | Cross-platform tourism & tour booking mobile application. | `React Native` `Expo Router` `NativeWind` `Firebase` |
 
 ---
 
