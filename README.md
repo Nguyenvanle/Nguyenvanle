@@ -16,10 +16,10 @@ Frontend Developer with professional experience building production web and cros
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,git,github,figma,supabase,vite" alt="My Skills" />
 </p>
 
-- **Frontend & Mobile:** React.js, Next.js, TypeScript, React Native / Expo
+- **Frontend & Mobile:** React.js, Next.js, TypeScript, React Native
 - **State & Data Fetching:** Zustand, Redux Toolkit, TanStack Query, RESTful APIs
 - **Styling & UI:** TailwindCSS, Shadcn/ui, SCSS
-- **Workflow:** Git, Figma, Agile/Scrum, Vite
+- **Workflow & Build:** Git, Figma, Agile/Scrum, Vite
 
 ---
 
@@ -28,9 +28,9 @@ Frontend Developer with professional experience building production web and cros
 | Project | Description | Tech Stack |
 |---|---|---|
 | **[FastTravelAI](https://github.com/Nguyenvanle/FastTravelAI)** | AI-powered travel planning and exploration platform. | `Next.js` `TypeScript` `AI` `TailwindCSS` |
-| **[ag-wander-ai](https://github.com/Nguyenvanle/ag-wander-ai)** | Intelligent local tourism and destination guide system. | `Next.js` `TypeScript` `TailwindCSS` |
 | **[multi-koala](https://github.com/Nguyenvanle/multi-koala)** | Online course sharing and interactive learning platform. | `TypeScript` `React` `Web Platform` |
-| **[Duokoala](https://github.com/Nguyenvanle/Duokoala)** | Mobile cross-platform application with gamified learning experience. | `React Native` `Expo` `TypeScript` |
+| **[agtravel](https://github.com/Nguyenvanle/agtravel)** | Modern travel & destination exploration web application. | `TypeScript` `Next.js` `React` |
+| **[nextjs-i18n](https://github.com/Nguyenvanle/nextjs-i18n)** | Scalable multi-language (i18n) boilerplate architecture for Next.js. | `Next.js` `TypeScript` `i18n` |
 
 ---
 
