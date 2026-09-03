@@ -13,11 +13,11 @@ Frontend Developer with professional experience building production web and cros
 ### 🛠️ Tech Stack & Core Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,git,github,figma,supabase,vite" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,zustand,html,css,git,github,figma,supabase,vite" alt="My Skills" />
 </p>
 
 - **Frontend & Mobile:** React.js, Next.js, TypeScript, React Native
-- **State & Data Fetching:** Zustand, Redux Toolkit, TanStack Query, RESTful APIs
+- **State & Data Fetching:** Zustand, TanStack Query, Context API, RESTful APIs
 - **Styling & UI:** TailwindCSS, Shadcn/ui, SCSS
 - **Workflow & Build:** Git, Figma, Agile/Scrum, Vite
 
